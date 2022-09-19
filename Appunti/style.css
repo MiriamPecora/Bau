@@ -1,0 +1,26 @@
+.viola {
+    color: red;
+}
+
+.verde {
+    color: green;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+
+#fototopo {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(15, 1, 138);
+    
+}
+
+.stelline {
+    color: rgb(184, 224, 5);
+}
